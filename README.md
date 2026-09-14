@@ -11,3 +11,8 @@ Programs added:
   Recently i completed a new certification....!!!
 The certificate is complete the python programing course on fibu...!!!
 - Write a simple basic syntax of C-programming language!!!
+
+# 14 september 2026
+
+Today is a good day...!!!
+And i am try to learning new things
