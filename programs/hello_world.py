@@ -6,3 +6,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+def data():
+    print("name is saksham")
+    print("nice to meet you")
+    main()
+data()
