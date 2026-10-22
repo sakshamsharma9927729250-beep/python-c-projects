@@ -16,3 +16,5 @@ The certificate is complete the python programing course on fibu...!!!
 
 Today is a good day...!!!
 And i am try to learning new things
+
+following's new trends some times...
