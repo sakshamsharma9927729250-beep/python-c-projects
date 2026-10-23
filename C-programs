@@ -17,3 +17,11 @@ doing.....
 
 #use printf statements to write any word inside the block of code
 or seeing the output on the output screen
+
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!");
+
+    return 0;
+}
