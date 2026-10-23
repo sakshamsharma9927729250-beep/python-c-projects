@@ -56,3 +56,28 @@ int main() {
     // 6. Return statement
     return 0;
 }
+Output:
+10
+.
+.
+4. Basic syntax you should know
+.
+Print output
+printf("Hello");
+.
+.
+Take user input
+int age;
+scanf("%d", &age);
+.
+.
+Declare variables
+int age = 18;
+float price = 25.5;
+char grade = 'A';
+.
+.
+Use conditions
+if (age >= 18) {
+    printf("Adult");
+}
