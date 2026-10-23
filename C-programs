@@ -37,3 +37,22 @@ int main()	The main function where program execution begins.
 printf()	Displays output on the screen.
 return 0;	Indicates successful program termination.
 ;	Marks the end of most C statements.
+
+// 1. Documentation section
+// Program to perform a task
+
+// 2. Header files
+#include <stdio.h>
+
+// 3. Main function
+int main() {
+
+    // 4. Variable declaration
+    int a = 10;
+
+    // 5. Program statements
+    printf("%d", a);
+
+    // 6. Return statement
+    return 0;
+}
