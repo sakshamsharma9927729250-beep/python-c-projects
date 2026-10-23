@@ -29,3 +29,11 @@ Output:
 Hello, World!
 ..
 .
+2. Explanation of each line
+Syntax	Meaning
+#include <stdio.h>	Includes the standard input/output library.
+int main()	The main function where program execution begins.
+{ }	Defines the beginning and end of a code block.
+printf()	Displays output on the screen.
+return 0;	Indicates successful program termination.
+;	Marks the end of most C statements.
