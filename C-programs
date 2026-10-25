@@ -83,3 +83,11 @@ if (age >= 18) {
 }
 
 todays leraning is completed...!!!
+
+5. Important format specifiers
+Specifier	Data type
+%d	int (integer)
+%f	float
+%c	char (single character)
+%s	String (character array)
+%lf	double with scanf()
