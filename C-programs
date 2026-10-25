@@ -106,3 +106,12 @@ int main() {
 
 Output:
 18
+
+2. Data types in C
+Data type	Example	Purpose
+int	int age = 18;	Whole numbers
+float	float price = 25.5f;	Decimal numbers
+double	double pi = 3.14159;	More precision for decimals
+char	char grade = 'A';	A single character
+
+Remember: characters use single quotes, such as 'A', while strings use double quotes, such as "Hello".
