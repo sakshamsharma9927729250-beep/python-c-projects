@@ -115,3 +115,23 @@ double	double pi = 3.14159;	More precision for decimals
 char	char grade = 'A';	A single character
 
 Remember: characters use single quotes, such as 'A', while strings use double quotes, such as "Hello".
+
+3. Taking input using scanf()
+The scanf() function reads input from the user.
+#include <stdio.h>
+
+int main() {
+    int age;
+
+    printf("Enter your age: ");
+    scanf("%d", &age);
+
+    printf("Your age is %d", age);
+
+    return 0;
+}
+
+
+Example output:
+Enter your age: 18
+Your age is 18
