@@ -91,3 +91,18 @@ Specifier	Data type
 %c	char (single character)
 %s	String (character array)
 %lf	double with scanf()
+
+1. Variables in C
+A variable is a named memory location used to store data.
+#include <stdio.h>
+
+int main() {
+    int age = 18;
+    printf("%d", age);
+
+    return 0;
+}
+
+
+Output:
+18
