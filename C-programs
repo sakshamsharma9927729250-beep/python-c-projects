@@ -174,3 +174,24 @@ int main() {
 }
 3. Relational operators
 These operators compare two values. The result is either true (1) or false (0).
+Example:
+#include <stdio.h>
+
+int main() {
+    int a = 10, b = 5;
+
+    printf("%d\n", a > b);
+    printf("%d\n", a == b);
+    printf("%d\n", a != b);
+
+    return 0;
+}
+
+
+Output:
+1
+0
+1
+
+
+Remember: = assigns a value, whereas == compares two values.
