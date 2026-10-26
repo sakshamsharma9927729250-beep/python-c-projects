@@ -172,3 +172,5 @@ int main() {
 
     return 0;
 }
+3. Relational operators
+These operators compare two values. The result is either true (1) or false (0).
