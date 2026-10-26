@@ -135,3 +135,25 @@ int main() {
 Example output:
 Enter your age: 18
 Your age is 18
+
+1. What are operators?
+Operators are symbols that perform operations on variables and values.
+
+Example:
+int a = 10;
+int b = 5;
+
+printf("%d", a + b);
+
+
+Output: 15
+
+Here, + is an operator.
+2. Arithmetic operators
+These operators perform mathematical calculations.
+Operator	Meaning	Example	Result
++	Addition	10 + 5	15
+-	Subtraction	10 - 5	5
+*	Multiplication	10 * 5	50
+/	Division	10 / 5	2
+%	Remainder	10 % 3	1
