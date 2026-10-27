@@ -203,3 +203,22 @@ Logical operators combine or reverse conditions.
 | && | AND — both conditions must be true | a > 5 && b < 10 |
 | || | OR — at least one condition must be true | a > 5 || b > 10 |
 | ! | NOT — reverses the truth value | !(a > 5) |
+
+Example:
+#include <stdio.h>
+
+int main() {
+    int age = 20;
+
+    printf("%d\n", age >= 18 && age <= 60);
+    printf("%d\n", age < 18 || age > 60);
+    printf("%d\n", !(age >= 18));
+
+    return 0;
+}
+
+
+Output:
+1
+0
+0
