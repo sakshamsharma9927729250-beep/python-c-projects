@@ -195,3 +195,11 @@ Output:
 
 
 Remember: = assigns a value, whereas == compares two values.
+4. Logical operators
+Logical operators combine or reverse conditions.
+
+| Operator | Meaning | Example |
+|---|---|---|
+| && | AND — both conditions must be true | a > 5 && b < 10 |
+| || | OR — at least one condition must be true | a > 5 || b > 10 |
+| ! | NOT — reverses the truth value | !(a > 5) |
