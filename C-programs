@@ -222,3 +222,12 @@ Output:
 1
 0
 0
+5. Assignment operators
+These operators assign or update values.
+Operator	Equivalent expression
+=	a = 10
++=	a = a + 5
+-=	a = a - 5
+*=	a = a * 2
+/=	a = a / 2
+%=	a = a % 3
