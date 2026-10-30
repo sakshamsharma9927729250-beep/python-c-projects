@@ -248,3 +248,14 @@ Output: 15
 
 # aaj ke liye itna hi baki milte hai kl ek nay content ke sath......
 bye bye dostonnnnn.....
+
+6. Increment and decrement operators
+- ++ increases a value by one.
+- -- decreases a value by one.
+int x = 5;
+
+x++;
+printf("%d\n", x);  // 6
+
+x--;
+printf("%d\n", x);  // 5
