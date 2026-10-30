@@ -259,3 +259,7 @@ printf("%d\n", x);  // 6
 
 x--;
 printf("%d\n", x);  // 5
+
+A useful distinction:
+- y = x++ assigns the old value of x to y, then increments x.
+- y = ++x increments x first, then assigns the new value to y.
