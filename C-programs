@@ -3,8 +3,6 @@
 #include <stdio.h>
 .
 .
-# C programe second line is....
-.
 void main()
 .
 .
