@@ -1,5 +1,6 @@
 # OOPs Concepts in Python
 # Class , Object & Inheritance(class variable , instance variable , class method , instance method , static method , super() , method overriding)
+# always learn new things
 class std:
     school = "Holy family"
     tot = 0
