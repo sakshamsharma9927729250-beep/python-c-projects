@@ -20,11 +20,13 @@ or seeing the output on the output screen
 
 int main() {
     printf("Hello, World!");
+    printf("My name is Saksham!");
 
     return 0;
 }
 Output:
 Hello, World!
+My name is Saksham!
 ..
 .
 2. Explanation of each line
