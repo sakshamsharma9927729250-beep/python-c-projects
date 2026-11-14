@@ -41,7 +41,11 @@ return 0;	Indicates successful program termination.
 
 // 2. Header files
 #include <stdio.h>
-
+.
+.
+#bhai maja aaya aaj padhne mai
+.
+.
 // 3. Main function
 int main() {
 
