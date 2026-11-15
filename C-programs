@@ -142,7 +142,7 @@ Enter your age: 18
 Your age is 18
 
 1. What are operators?
-Operators are symbols that perform operations on variables and values.
+Operators are symbols that perform operations on variables and values. operator plays operation between two operands
 
 Example:
 int a = 10;
