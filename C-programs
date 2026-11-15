@@ -154,6 +154,7 @@ printf("%d", a + b);
 Output: 15
 
 Here, + is an operator.
+let's read and learn some operators..
 2. Arithmetic operators
 These operators perform mathematical calculations.
 Operator	Meaning	Example	Result
