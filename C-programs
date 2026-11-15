@@ -87,7 +87,7 @@ if (age >= 18) {
     printf("Adult");
 }
 
-todays leraning is completed...!!!
+todays leraning is completed...!!
 
 5. Important format specifiers
 Specifier	Data type
