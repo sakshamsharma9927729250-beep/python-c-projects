@@ -4,7 +4,7 @@
 class std:
     school = "Holy family"
     tot = 0
-    def __init__(self , name = "saksham" , age = 0 , mar = 0 , num = 0):
+    def __init__(self , name = "saksham" , age = 0 , mar = 0 , num = 0)
         self.name = name
         self.age = age
         std.tot += 1
