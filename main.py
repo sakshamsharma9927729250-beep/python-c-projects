@@ -103,6 +103,7 @@ print(s4.show())
 print(s4.work())
 
 # polymorphism(Looping , Duck typing , composition)
+# Always learn new things
 class emp:
     def work(self):
         print("I am working...")
