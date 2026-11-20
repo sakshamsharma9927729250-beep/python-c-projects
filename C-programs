@@ -158,6 +158,8 @@ Here, + is an operator.
 let's read and learn some operators..
 2. Arithmetic operators
 These operators perform mathematical calculations.
+
+
 Operator	Meaning	Example	Result
 +	Addition	10 + 5	15
 -	Subtraction	10 - 5	5
@@ -202,8 +204,13 @@ Output:
 
 
 Remember: = assigns a value, whereas == compares two values.
+
+
 4. Logical operators
+
 Logical operators combine or reverse conditions.
+
+Logical operator are three types
 
 | Operator | Meaning | Example |
 |---|---|---|
@@ -274,4 +281,5 @@ A useful distinction:
 # okk dostonnn bye baki hum aapse kl milte hain aaj ke liye bss itna hi
 # orr haann dostonnn daru or nashe se durr hi rahe......
 # aapke sath aapke ghar ko bhi ujad saktii hai.
-
+# Now gain knowledge tomorrow..
+for this time good night
