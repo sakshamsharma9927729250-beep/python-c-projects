@@ -394,3 +394,6 @@ int main() {
 - `else` cannot exist without an `if`.
 - Conditions are checked from top to bottom in an else-if ladder.
 - Once a condition is true, its block executes and the remaining ladder is skipped.
+.
+.
+# Thanks for this session good night to all
