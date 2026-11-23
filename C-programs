@@ -290,3 +290,13 @@ Conditional Statements (if, if-else, else-if)
 1. Conditional Statements
 
 Conditional statements are used to execute code based on a particular condition.
+
+Syntax:
+
+if (condition) {
+    // code executes if condition is true
+}
+
+2. if Statement
+
+The if statement executes a block of code only when the given condition is true
