@@ -299,4 +299,98 @@ if (condition) {
 
 2. if Statement
 
-The if statement executes a block of code only when the given condition is true
+The if statement executes a block of code only when the given condition is true.
+.
+```c
+#include <stdio.h>
+
+int main() {
+    int age = 18;
+
+    if (age >= 18) {
+        printf("Eligible");
+    }
+
+    return 0;
+}
+```
+
+### 3. if-else Statement
+The `if-else` statement executes one block when the condition is true and another block when it is false.
+
+```c
+#include <stdio.h>
+
+int main() {
+    int num = 7;
+
+    if (num % 2 == 0) {
+        printf("Even Number");
+    } else {
+        printf("Odd Number");
+    }
+
+    return 0;
+}
+```
+
+### 4. else-if Ladder
+The else-if ladder is used to check multiple conditions one by one.
+
+```c
+#include <stdio.h>
+
+int main() {
+    int marks = 85;
+
+    if (marks >= 90) {
+        printf("Grade A");
+    } else if (marks >= 75) {
+        printf("Grade B");
+    } else if (marks >= 60) {
+        printf("Grade C");
+    } else {
+        printf("Grade D");
+    }
+
+    return 0;
+}
+```
+
+### 5. Nested if
+A nested if is an if statement inside another if statement.
+
+```c
+#include <stdio.h>
+
+int main() {
+    int age = 20;
+    int hasID = 1;
+
+    if (age >= 18) {
+        if (hasID == 1) {
+            printf("Access Granted");
+        }
+    }
+
+    return 0;
+}
+```
+
+### 6. Important Operators
+- `==` Equal to
+- `!=` Not equal to
+- `>` Greater than
+- `<` Less than
+- `>=` Greater than or equal to
+- `<=` Less than or equal to
+- `&&` Logical AND
+- `||` Logical OR
+- `!` Logical NOT
+
+### 7. Key Points
+- Conditions return either true (1) or false (0).
+- Curly braces `{}` define a code block.
+- `else` cannot exist without an `if`.
+- Conditions are checked from top to bottom in an else-if ladder.
+- Once a condition is true, its block executes and the remaining ladder is skipped.
