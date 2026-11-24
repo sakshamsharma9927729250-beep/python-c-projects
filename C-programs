@@ -418,3 +418,7 @@ Easy debugging
 Better code organization
 
 Improve readability and maintainability
+
+3. Types of functions
+- Library functions: Predefined functions such as printf(), scanf(), strlen().
+- User-defined functions: Functions created by the programmer according to requirements.
