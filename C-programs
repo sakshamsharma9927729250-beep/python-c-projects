@@ -422,3 +422,66 @@ Improve readability and maintainability
 3. Types of functions
 - Library functions: Predefined functions such as printf(), scanf(), strlen().
 - User-defined functions: Functions created by the programmer according to requirements.
+
+
+Bhai c programming ki 6th page ki copy based knowledge or aaj ke workflow ka GitHub update discription with today's date
+Bhai, aaj 24 November 2026 ke liye C Programming ka 6th page copy-based knowledge aur GitHub daily workflow update ready hai. Aaj ka topic programming logic se related hai, generic GitHub knowledge nahi.
+
+📘 C Programming — Page 6
+Topic: Functions in C
+
+1. What is a Function?
+A function is a reusable block of code designed to perform a specific task. Functions help divide a large program into smaller, manageable parts.
+
+2. Why use functions?
+Code reusability
+
+Reduce code duplication
+
+Easy debugging
+
+Better code organization
+
+Improve readability and maintainability
+
+3. Types of functions
+Library functions: Predefined functions such as printf(), scanf(), strlen().
+
+User-defined functions: Functions created by the programmer according to requirements.
+
+4. Function syntax
+return_type function_name(parameters) {
+    // code
+    return value;
+}
+
+5. Example of a user-defined function
+#include <stdio.h>
+
+int add(int a, int b) {
+    return a + b;
+}
+
+int main() {
+    int result = add(10, 20);
+
+    printf("Sum = %d", result);
+
+    return 0;
+}
+
+Output:
+
+Sum = 30
+6. Important function terms
+Function declaration (prototype): Tells the compiler about a function before it is used.
+
+Function definition: Contains the actual code that performs the task.
+
+Function call: Executes the function.
+
+Parameters: Variables written inside the function definition.
+
+Arguments: Actual values passed when calling the function.
+
+Return value: The result sent back by the function.
