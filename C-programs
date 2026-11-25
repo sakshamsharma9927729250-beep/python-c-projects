@@ -483,6 +483,9 @@ Function definition: Contains the actual code that performs the task.
 .
 #Hello doston aaj hum chutti per hai issliye aaj koi kaam nahi hoga toh kripiya aap sab aram kare orr abb hum bhi chalete hain aram kerne!!!!!
 Dhanyawad.....
+.
+.
+.
 Function call: Executes the function.
 
 Parameters: Variables written inside the function definition.
